@@ -1,1 +1,1 @@
-uploade your creds.jso file here
+uploade your creds.json file here
